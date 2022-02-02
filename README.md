@@ -1,1 +1,1 @@
-# Conjointanalysis
+# Conjoint analysis
